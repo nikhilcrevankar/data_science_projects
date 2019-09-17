@@ -1,0 +1,5 @@
+With almost 40 million inhabitants and a diverse geography that encompasses the Andes mountains, glacial lakes, and the Pampas grasslands, Argentina is the second largest country (by area) and has one of the largest economies in South America. It is politically organized as a federation of 23 provinces and an autonomous city, Buenos Aires.
+
+We analyze ten economic and social indicators collected for each province. Because these indicators are highly correlated, we use principal component analysis (PCA) to reduce redundancies and highlight patterns that are not apparent in the raw data. After visualizing the patterns, we use k-means clustering to partition the provinces into groups with similar development levels.
+
+These results can be used to plan public policy by helping allocate resources to develop infrastructure, education, and welfare programs.
